@@ -1,2 +1,0 @@
-# trex
-trex Game
